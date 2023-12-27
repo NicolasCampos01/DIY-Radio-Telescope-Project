@@ -1,6 +1,5 @@
 # DIY-Radio-Telescope-Project
-
-This repo holds codes for a DIY radio telescope project. We aim to study the galactic rotation curve by detecting the 21 cm hydrogen spectral line. Inspired by Jonathan Williams and the RET program at the University of West Virginia.
+This repository contains a set of Jupyter Notebooks for the analysis of astronomical spectroscopy data obtained from a radio telescope. We aim to study the galactic rotation curve by detecting the 21 cm hydrogen spectral line. Inspired by Jonathan Williams and the RET program at the University of West Virginia. The notebooks are organized in a sequential order to guide users through the calibration, inspection, and analysis process.
 
 # Key Points
 Codes for data processing, data obtained with the telescope and GNU Radio Software.
